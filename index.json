@@ -1,0 +1,11 @@
+{
+  "org": "rubocop",
+  "repo": "rubocop-rubycw",
+  "versions": [
+    {
+      "commit": "ac73b642d617cafe0dda40c20dc53e87e2890e5a",
+      "tag": "",
+      "parsed_at": "2026-11-10T08:53:44.269840+00:00"
+    }
+  ]
+}
