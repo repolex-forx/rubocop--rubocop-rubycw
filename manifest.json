@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "org": "rubocop",
+  "repo": "rubocop-rubycw",
+  "versions": [
+    {
+      "commit": "ac73b642d617cafe0dda40c20dc53e87e2890e5a",
+      "parsed_at": "2026-11-10T08:51:02.448343+00:00",
+      "filetree": "filetree/ac73b642d617cafe0dda40c20dc53e87e2890e5a.nq.gz",
+      "blobs": [
+        "blob/32327520aab3545b3664bf61ad270ef9bae98f83.nq.gz",
+        "blob/b635516c831e6c44ea641ecd01bef945597e7895.nq.gz",
+        "blob/a8159182090204db464bd3fcab5f39c03c841c0a.nq.gz",
+        "blob/75d6ef431096ea1b9dd42100d60e99c1aaa0140e.nq.gz",
+        "blob/dce67d860af47a4eb630117ce03624bae45dcf26.nq.gz",
+        "blob/72d17bfcd425b772c841519fd7e3f8650a95a341.nq.gz",
+        "blob/dc96cb90785b150acb2bfb3ed96da142dfbe2553.nq.gz",
+        "blob/be548be846b2c0dbcdf2146d5c873675c6087b11.nq.gz",
+        "blob/91e47bd382a69143edc372fe2e8caad354453de2.nq.gz",
+        "blob/45ed29f96d08b24fccbb3d2a5a6a82c1ee821505.nq.gz",
+        "blob/a7e3cb51e85ba3c11d16270a41deb28aaaabeded.nq.gz",
+        "blob/68439ef0ffa6cdc5914159359fbe1396c1bd34e7.nq.gz",
+        "blob/4485842511c770b270c5534497d802f9b866000f.nq.gz",
+        "blob/29b049d53263218499a54bb89ede2746640ec2b1.nq.gz",
+        "blob/9f5fc9cb08b14c312077d535d5c490327e54c2ef.nq.gz",
+        "blob/34c5164d9b56c7d528f061c97f2d2fe02c834bdd.nq.gz",
+        "blob/519bad97e0902dc764d0e1d38fc5ebf742b1550b.nq.gz",
+        "blob/e8f3b15234af3623b983f4847a3c8fad15d51ad3.nq.gz",
+        "blob/b67a59501c4709215b86d1a14dfcd54210267954.nq.gz",
+        "blob/01266e0caa409a25049790b909774799cb9bcc33.nq.gz",
+        "blob/7851199406128c01879cfd2b00c5f89d632955d0.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
