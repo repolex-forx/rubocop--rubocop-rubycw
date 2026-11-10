@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/rubocop/rubocop-rubycw/commit/ac73b642d617cafe0dda40c20dc53e87e2890e5a",
       "git:hexsha": "ac73b642d617cafe0dda40c20dc53e87e2890e5a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/rubocop/rubocop-rubycw/commit/dd630269d46be7ed8abddf2831deb62d4b88d282",
